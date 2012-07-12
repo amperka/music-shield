@@ -25,7 +25,7 @@
 
 #include "pins_config.h"
 #include "vs10xx.h"
-#include "newSDLib.h"
+#include "newSDlib.h"
 #define READ_BUF_LEN  32
 #define VOLUME_UP   0
 #define VOLUME_DOWN 1

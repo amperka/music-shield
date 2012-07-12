@@ -9,7 +9,7 @@
  */
 
 #include "pins_arduino.h"
-#include "newSPI.h"
+#include "NewSPI.h"
 
 newSPIClass newSPI;
 

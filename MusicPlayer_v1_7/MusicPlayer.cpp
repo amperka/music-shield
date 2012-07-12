@@ -22,7 +22,7 @@
 //  Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 #include "pins_config.h"
 #include "vs10xx.h"
-#include "newSDLib.h"
+#include "newSDlib.h"
 #include "MusicPlayer.h"
 
 typedef void (*voidFunctionPtr)(void);

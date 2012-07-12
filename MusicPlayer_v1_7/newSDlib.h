@@ -24,7 +24,7 @@
 #define NEWSDLIB_H
 
 #include <Fat16.h>
-#include <Fat16Util.h>
+#include <Fat16util.h>
 
 extern SdCard card;
 extern Fat16 file;
