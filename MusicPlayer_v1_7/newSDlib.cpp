@@ -69,7 +69,7 @@ void error_P(const char* str) {
 unsigned char newSD::init()
 {
   //SPI speed: 0 - F_CPU/2, 1 - F_CPU/4
-  if (!card.init(0,SD_CS_PIN))
+  if (!card.init(1,SD_CS_PIN))
   {
     error("card.init failed");
     return 0;
